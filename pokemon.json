@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "type": "plant"
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "type": "plant"
+  },
+  {
+    "id": 38,
+    "name": "ninetails",
+    "type": "fire"
+  },
+  {
+    "id": 39,
+    "name": "arcanine",
+    "type": "fire"
+  }
+]
